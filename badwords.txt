@@ -1425,4 +1425,8 @@ marš
 kurac
 kurčevi
 kurcevi
+drkanje
+drkaj
+šupak
+supak
 
