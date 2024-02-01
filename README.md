@@ -1,0 +1,1 @@
+# rblx23filterbadwordslist
