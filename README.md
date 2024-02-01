@@ -1,2 +1,2 @@
-#Hi
-Here you can contribute for make the filter way better
+# Hi
+Here you can contribute to make the filter way better
