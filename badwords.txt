@@ -253,7 +253,6 @@ cyberfucking
 d1ck
 dammit
 damn
-<?php echo $usr['theme']; ?>ie
 date rape
 daterape
 deep throat
