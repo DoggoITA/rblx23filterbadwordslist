@@ -1434,6 +1434,7 @@ kurva
 kurwa
 jebanje
 jebe
+jebati
 jebi se
 mrs
 mrš
@@ -1446,3 +1447,15 @@ drkanje
 drkaj
 šupak
 supak
+muda
+jbg
+pićka
+pička
+picka
+puši mi
+pusi mi
+peder
+pederi
+kurvetina
+kurwetina
+striptizeta
